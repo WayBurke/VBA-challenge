@@ -20,9 +20,9 @@ For this project, the order in which the buttons are used is important that is, 
 
 
 ## Files included
-* [Test Data](/alphabetical_testing.xlsx) - Dataset that was used while creating the scripts.
+* [Test Data](/alphabetical_testing.xlsm) - Dataset that was used while creating the scripts.
 
-* [Stock Data](/Multiple_year_stock_data.xlsx) - Actual Dataset associated to the assignment and the report.
+* [Stock Data](/Multiple_year_stock_data.xlsm) - Actual Dataset associated to the assignment and the report.
 
 * [Wall Street Stock Solution](/WallStreetStock.vbs) -  VBS file version of the code used for this project
 
