@@ -26,6 +26,6 @@ For this project, the order in which the buttons are used is important that is, 
 
 * [Wall Street Stock Solution](/WallStreetStock.vbs) -  VBS file version of the code used for this project
 
-* [Wall Street Stock Report](/Wall_Street_Stock_Report.doc) - Word document containing a snapshot report of this project as changes were applied to the Stock Data file.
+* [Wall Street Stock Report](/Wall_Street_Stock_Report.docx) - Word document containing a snapshot report of this project as changes were applied to the Stock Data file.
 
 
