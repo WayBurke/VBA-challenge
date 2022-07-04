@@ -20,12 +20,12 @@ For this project, the order in which the buttons are used is important that is, 
 
 
 ## Files included
-* [Test Data](VBA-challenge//alphabetical_testing.xlsx) - Dataset that was used while creating the scripts.
+* [Test Data](//alphabetical_testing.xlsx) - Dataset that was used while creating the scripts.
 
-* [Stock Data](VBA-challenge//Multiple_year_stock_data.xlsx) - Actual Dataset associated to the assignment and the report.
+* [Stock Data](//Multiple_year_stock_data.xlsx) - Actual Dataset associated to the assignment and the report.
 
-* [Wall Street Stock Solution](VBA-challenge//WallStreetStock.vbs) -  VBS file version of the code used for this project
+* [Wall Street Stock Solution](//WallStreetStock.vbs) -  VBS file version of the code used for this project
 
-* [Wall Street Stock Report](VBA-challenge//Wall_Street_Stock_Report.doc) - Word document containing a snapshot report of this project as changes were applied to the Stock Data file.
+* [Wall Street Stock Report](//Wall_Street_Stock_Report.doc) - Word document containing a snapshot report of this project as changes were applied to the Stock Data file.
 
 
